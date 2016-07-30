@@ -10,4 +10,6 @@
     * [人员管理](chapter1/MemberManage.md)
     * [系统配置](chapter1/Sysconfig.md)
 * [规则介绍](chapter2/README.md)
+    * [工作记录填写要求](chapter2/WriteWorkRecord.md)
+    * [工作记录审核要求](chapter2/CheckWorkRecord.md)
 
